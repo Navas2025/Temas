@@ -1,2 +1,2 @@
 # Temas
-Actualizaciones De Plugins y Temas
+Actualizaciones De Temas
