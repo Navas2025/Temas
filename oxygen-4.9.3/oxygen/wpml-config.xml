@@ -15,11 +15,5 @@
         <shortcode>
             <tag>ct_link_text</tag>
         </shortcode>
-        <shortcode>
-            <tag>example_shortcode_with_attributes</tag>
-            <attributes>
-                <attribute>my_attribute</attribute>
-            </attributes>
-        </shortcode>
     </shortcodes>
 </wpml-config>
